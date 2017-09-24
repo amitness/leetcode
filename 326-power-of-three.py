@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/power-of-three
+
 def isPowerOfThree(n):
     """
     :type n: int
